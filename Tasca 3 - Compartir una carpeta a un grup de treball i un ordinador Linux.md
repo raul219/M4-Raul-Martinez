@@ -1,6 +1,7 @@
 Crea un repositori github on responguis la següent pràctica: 
 
 Per aquesta pràctica necessitem dues MV a isad. Una amb Windows 10 i un altra amb Ubuntu. Les dues connectades a la mateixa xarxa NAT i poden fer ping entre elles
+
 Activitat 1: 
 Comparteix amb la màquina virtual de Windows una carpeta anomenada grupb_X (on X es el teu cognom) amb el grup de treball
 
@@ -20,5 +21,3 @@ Activitat 4:
 Comprova des de la primera MV que s'ha creat el document.
 
 ![image](https://github.com/user-attachments/assets/e7e6cf97-6034-456d-81b1-92c7747c8071)
-
-![image](https://github.com/user-attachments/assets/16b5d834-54e9-413f-9cf4-06cca933395f)
