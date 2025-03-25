@@ -15,7 +15,7 @@ Accedeix a la carpeta anterior des de la màquina virtual de Ubuntu
 Activitat 3: 
 Crea un fitxer des de la màquina virtual d'Ubuntu anomenat dades_Linux_X.txt. On X es el teu cognom. 
 
-![image](https://github.com/user-attachments/assets/133e8d28-3906-4d99-9055-95d2c2ad41a1)
+![image](https://github.com/user-attachments/assets/0035bcdb-0230-4cea-bc6e-e6fdcda746d0)
 
 Activitat 4: 
 Comprova des de la primera MV que s'ha creat el document.
