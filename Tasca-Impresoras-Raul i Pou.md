@@ -25,6 +25,8 @@ Agafem Generic
 
 ![image](https://github.com/user-attachments/assets/f1a287c5-374d-4ddc-a444-497f6d9b74bf)
 
+![image](https://github.com/user-attachments/assets/cd12e57e-ff84-4a44-9d1f-97d9fac54b2a)
+
 Agafem l'opcio que esta marcada
 
 ![image](https://github.com/user-attachments/assets/d36f02d9-45d5-4b99-ba79-c627789a9fb3)
