@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cd12e57e-ff84-4a44-9d1f-97d9fac54b2a)Activitat 1 - Compartir una impressora de Linux a Windows
+Activitat 1 - Compartir una impressora de Linux a Windows
 La vostra oficina disposa d'una impressora centralitzada que està connectada a un equip amb Linux. La resta d'ordinadors de l'oficina fan servir Windows 10.
 Has de fer que tots els usuaris puguin utilitzar la impressora. La xarxa de l'oficina fa servir aquestes adreces IP. 
 On X és el número assignat al teu grup.
@@ -36,12 +36,10 @@ Le donem al enllaç
 ![image](https://github.com/user-attachments/assets/2368e2c3-a76f-4fed-bf36-961c66fe7d97)
 
 
-
-
-![image](https://github.com/user-attachments/assets/d202e75f-b5e7-4f76-a2ee-fee17894f51c)
-
 ![image](https://github.com/user-attachments/assets/d5e608e8-5007-4b7e-a0b4-9fa993bbde8f)
 
 ![image](https://github.com/user-attachments/assets/b9842f2f-d8fd-425f-9f2d-ede250755aef)
+
+![image](https://github.com/user-attachments/assets/d202e75f-b5e7-4f76-a2ee-fee17894f51c)
 
 ![image](https://github.com/user-attachments/assets/f9b07fe2-538b-404d-b03d-c3ec25df3655)
