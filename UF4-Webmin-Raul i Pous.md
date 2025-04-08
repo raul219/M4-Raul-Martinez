@@ -62,8 +62,16 @@ Utilitza webmin per mostrar l'estat del servidor Apache.
 
 Utilitza webmin per aturar Apache.
 
+![image](https://github.com/user-attachments/assets/b4592bd6-c7e7-4d86-aade-2e2d929b8d9c)
+
 Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+
+![image](https://github.com/user-attachments/assets/53ee5ce6-e25d-4f1c-b5d9-53709fb04c62)
 
 Utilitza webmin per reiniciar Apache.
 
+![image](https://github.com/user-attachments/assets/79e24b19-7ad4-4031-8bfd-2d6e80460938)
+
 Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
+
+![image](https://github.com/user-attachments/assets/1ef62c40-f34a-4413-bb09-a3fd3ed25c6c)
