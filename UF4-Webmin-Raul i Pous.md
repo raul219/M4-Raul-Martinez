@@ -42,3 +42,28 @@ Utilitza webmin per instal·lar gimp de apt.
 Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
 
 ![image](https://github.com/user-attachments/assets/bbab59d8-f562-429d-9cfe-81f85df8655e)
+
+
+
+
+**4.- Serveis**
+
+Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+
+![image](https://github.com/user-attachments/assets/dbe762ec-c1f4-4677-9166-7cd1dfd16ddd)
+
+Utilitza webmin per mostrar els serveis que estan actius.
+
+![image](https://github.com/user-attachments/assets/f6bfb93f-f414-4ff8-90de-92ddcf67c9c6)
+
+Utilitza webmin per mostrar l'estat del servidor Apache.
+
+![image](https://github.com/user-attachments/assets/5a833c67-1878-456b-8164-941b621283af)
+
+Utilitza webmin per aturar Apache.
+
+Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+
+Utilitza webmin per reiniciar Apache.
+
+Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
