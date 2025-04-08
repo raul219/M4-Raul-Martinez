@@ -75,3 +75,22 @@ Utilitza webmin per reiniciar Apache.
 Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
 
 ![image](https://github.com/user-attachments/assets/1ef62c40-f34a-4413-bb09-a3fd3ed25c6c)
+
+
+
+
+**6.- Còpies de seguretat**
+
+Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+
+![image](https://github.com/user-attachments/assets/65bd68d2-c933-4e97-9fd4-d84ac6ed26ac)
+
+Modifica alguns fitxers de /home.
+
+Recupera la còpia de seguretat.
+
+Comprova que els fitxers de /home són els correctes.
+
+Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
+
+Esborra la còpia de seguretat programada anteriorment.
