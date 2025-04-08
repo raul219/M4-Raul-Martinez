@@ -1,92 +1,19 @@
-1.- Crear i modificar usuaris
-Fer tot des de webmin
-
-Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
-
-![image](https://github.com/user-attachments/assets/bdcad2ba-7b94-4eb7-8780-193b0a918406)
-
-Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
-
-Cada usuari tindrà un directori a home igual al seu nom d'usuari.
-
-Utilitzaran bash com a shell.
-
-Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
-
-L'usuari techno no podrà fer login després del dia 31-03-2025.
-
-Comproveu que els usuaris poden iniciar sessió.
-
-Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
-
 2.- Programar tasques
 
 Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
 
+![image](https://github.com/user-attachments/assets/39661a6c-6dce-4bde-b148-1a3c6c5ab2b3)
+
 Programa una tasca diaria que apaga l'ordinador a les 14:00.
+
+![image](https://github.com/user-attachments/assets/a7f4e469-e73a-4011-baec-0ae3c7906925)
 
 Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
 
-3.- Instal·lació de software
+Captura de programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes:
 
-Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
+![image](https://github.com/user-attachments/assets/9e5a0216-37e5-4ef5-8ef1-2c851fe133b5)
 
-Des de webmin actualitza un paquet.
+Captura de programa una tasca diaria que apaga l'ordinador a les 14:00.
 
-Utilitza webmin per instal·lar un joc de apt.
-
-Utilitza webmin per instal·lar gimp de apt.
-
-Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
-
-4.- Serveis
-
-Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
-
-Utilitza webmin per mostrar els serveis que estan actius.
-
-Utilitza webmin per mostrar l'estat del servidor Apache.
-
-Utilitza webmin per aturar Apache.
-
-Utilitza webmin per mostrar l'estat del servidor Apache apagat.
-
-Utilitza webmin per reiniciar Apache.
-
-Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
-
-5.- Quotes de disc
-
-Activa les quotes de disc pels usuaris amb la comanda:
-
-sudo apt install quota quotatool
-
-Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
-
-Comprova que el límit de la quota funciona.
-
-Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
-
-Comprova que el límit de la quota funciona.
-
-6.- Còpies de seguretat
-
-Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
-
-Modifica alguns fitxers de /home.
-
-Recupera la còpia de seguretat.
-
-Comprova que els fitxers de /home són els correctes.
-
-Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
-
-Esborra la còpia de seguretat programada anteriorment.
-
-7.- Compartició
-
-Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
-
-Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
-
-Comprovar des de Windows que aquests recursos funcionen.
+![image](https://github.com/user-attachments/assets/01d0bac8-f3ac-4181-bc73-8235d034bcc6)
