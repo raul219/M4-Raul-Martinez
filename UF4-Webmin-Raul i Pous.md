@@ -6,6 +6,7 @@ Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una veg
 
 Programa una tasca diaria que apaga l'ordinador a les 14:00.
 
+![image](https://github.com/user-attachments/assets/5a9812c8-29f7-4a9b-967a-1a88e23cd6a7)
 
 Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
 
