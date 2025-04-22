@@ -87,6 +87,8 @@ Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del
 
 Modifica alguns fitxers de /home.
 
+![image](https://github.com/user-attachments/assets/d9a7862f-a4db-4b06-8631-9cfd9db67b93)
+
 Recupera la còpia de seguretat.
 
 Comprova que els fitxers de /home són els correctes.
