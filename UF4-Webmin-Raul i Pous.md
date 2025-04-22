@@ -91,10 +91,16 @@ Modifica alguns fitxers de /home.
 
 Recupera la còpia de seguretat.
 
-![image](https://github.com/user-attachments/assets/52a73778-cc7e-49e0-819f-f3b2503c77b9)
+![image](https://github.com/user-attachments/assets/25428113-5408-40a1-bc42-e0d5f4851efd)
 
 Comprova que els fitxers de /home són els correctes.
 
+![image](https://github.com/user-attachments/assets/8da4614e-f40b-4075-8803-5a9782a6fe58)
+
 Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
 
+![image](https://github.com/user-attachments/assets/347a0eac-18ec-4225-ae51-c9b62bf4d34f)
+
 Esborra la còpia de seguretat programada anteriorment.
+
+![image](https://github.com/user-attachments/assets/1775f4cc-aa4e-4b3a-8be2-16b5fd5338fc)
