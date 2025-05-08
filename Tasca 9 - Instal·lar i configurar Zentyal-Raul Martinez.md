@@ -82,3 +82,5 @@ Canvieu el nom de l'equip del client a Windows-X on X es el vostre cognom
 
 
 ![image](https://github.com/user-attachments/assets/f4d08d31-0f4f-4fee-9d53-611cf2ecb206)
+
+![image](https://github.com/user-attachments/assets/97c06dd3-0b3c-4048-9adb-b4f6c334e06e)
